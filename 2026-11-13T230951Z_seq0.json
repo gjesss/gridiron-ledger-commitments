@@ -1,0 +1,6 @@
+{
+  "seq": 0,
+  "head_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+  "committed_at": "2026-11-13T23:09:51+00:00",
+  "algorithm": "sha256(canonical-json{seq,created_at,kind,locks_at,payload,nonce,prev_hash})"
+}
