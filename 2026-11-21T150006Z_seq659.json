@@ -1,0 +1,6 @@
+{
+  "seq": 659,
+  "head_hash": "5cd3fc25810e19f14fb4229e312fdf7b680e765461bb046824e7d038c3e6cd17",
+  "committed_at": "2026-11-21T15:00:06+00:00",
+  "algorithm": "sha256(canonical-json{seq,created_at,kind,locks_at,payload,nonce,prev_hash})"
+}
